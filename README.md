@@ -25,6 +25,7 @@ This project highlights:
 
 - ✅ Top 10 Players by Appearances
    Cristiano Ronaldo leads with 183 appearances.
+  
    Other icons include Iker Casillas, Lionel Messi, Xavi, and Thomas Müller.
 
 - ✅ Top Goal Scorers
