@@ -1,14 +1,14 @@
 # UEFA Champions League Stats – Tableau Dashboard Project
 This Tableau project explores comprehensive statistics from the UEFA Champions League, one of the most prestigious football tournaments in the world. Through interactive visualizations, this dashboard presents deep insights into players, coaches, clubs, and country dominance over the years in the competition.
 
-📌 Tableau Dashboard
+## 📌 Tableau Dashboard
 
 🔗 Live Dashboard:
 [View on Tableau Public](https://public.tableau.com/views/ChampionsLeagueStats_17446613591650/Story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img src="Dashboard & Stories/Champions League Stats Dash_Tableau.png"/>
 
-📊 Project Overview
+### 📊 Project Overview
 This project highlights:
 
 The legends of the game (players and coaches) with the most appearances.
@@ -19,7 +19,8 @@ Club dominance in terms of wins, goals scored, and matches played.
 
 Comparative analysis across countries based on club performance.
 
-🔍 Key Insights & Features
+### 🔍 Key Insights & Features
+
 ✅ Top 10 Players by Appearances
 Cristiano Ronaldo leads with 183 appearances.
 
@@ -50,7 +51,8 @@ Real Madrid's dominance: 14 titles.
 
 AC Milan, Liverpool, and Bayern each have 6.
 
-🧭 Story Sections
+### 🧭 Story Sections
+
 📘 Story 1 – UEFA Icons
 <img src="Dashboard & Stories/Champions League Story_1.png"/>
 This story focuses on the legendary figures of the Champions League—players and managers who’ve left a lasting legacy. It highlights leaders in appearances, goals, and overall impact. Icons like Cristiano Ronaldo, Messi, and Ancelotti stand out as benchmarks of consistency and brilliance.
