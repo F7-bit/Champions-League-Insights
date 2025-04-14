@@ -29,7 +29,9 @@ This project highlights:
 
 - ✅ Top Goal Scorers
   Cristiano Ronaldo – 140 goals
+  
   Lionel Messi – 129 goals
+  
   Followed by Lewandowski, Benzema, and Raúl.
 
 - ✅ Top Coaches by Appearances
@@ -37,14 +39,17 @@ This project highlights:
 
 - ✅ Most Games Played by Clubs
   Real Madrid CF leads with 285 wins.
+  
   Clubs like Bayern Munich, Barcelona, and Manchester United follow closely.
 
 - ✅ Goals Analysis
   Clubs with 300+ goals scored are highlighted.
+  
   Real Madrid CF tops with 1,047 goals, followed by Bayern Munich and Barcelona.
 
 - ✅ Titles Won by Clubs
   Real Madrid's dominance: 14 titles.
+  
   AC Milan, Liverpool, and Bayern each have 6.
 
 ## 🧭 Story Sections
